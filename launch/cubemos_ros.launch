@@ -1,0 +1,3 @@
+<launch>
+        <node pkg="cubemos_ros" name="cubemos_ros" type="cubemos_ros" output="screen"/>
+</launch>
